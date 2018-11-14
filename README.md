@@ -1,5 +1,5 @@
 # Drum-kit-app
-Drum kit app
+Drum kit app from JavaScript30 exercise.
 
 SCREENSHOT
 
